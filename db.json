@@ -1,0 +1,21 @@
+{
+  "signup-users": [
+    {
+      "id": "57f4",
+      "email": "vrushabh@json",
+      "password": "vrush"
+    }
+  ],
+  "login-users": [
+    {
+      "id": "8c7d",
+      "email": "vru@gmail.com",
+      "password": "vrushabh"
+    },
+    {
+      "id": "e871",
+      "email": "hftd@cgf",
+      "password": "ghftfj"
+    }
+  ]
+}
